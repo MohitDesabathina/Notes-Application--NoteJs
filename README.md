@@ -1,7 +1,7 @@
 # Notes-Application--NoteJs
 This application is completely build using NodeJs and the input to the application is through terminal. 
 
-Prerequisite Commands : 
+Prerequisite Commands: 
   
        $ npm init    //Install NPM module
  
@@ -18,7 +18,7 @@ For running the file :
       $ node app.js
 
 
-Fucntions : 
+Functions : 
 
 
 1) Adding a Note :
