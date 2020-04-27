@@ -3,7 +3,7 @@ This application is completely build using NodeJs and the input to the applicati
 
 Prerequisite Commands : 
   
-       $ npm init    //Install NPM modules
+       $ npm init    //Install NPM module
  
        $ npm i yarg  //Install yarg package 
     
