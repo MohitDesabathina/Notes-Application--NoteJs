@@ -1,5 +1,5 @@
 # Notes-Application--NoteJs
-This application is completely build using NodeJs and the input to the application is through terminal. 
+This application is completely build using NodeJs. 
 
 Prerequisite Commands: 
   
